@@ -33,5 +33,3 @@ SO THAT the viewer would be able to immediately get a brief but thorough introdu
 
 ## Final Publication
 
-http://127.0.0.1:5500/01-HTML-Git-CSS/02-Homework/HW1-App-Code-Refactor/HW2-Solved/solved-index.html 
-
