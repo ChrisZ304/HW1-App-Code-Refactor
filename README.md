@@ -1,4 +1,4 @@
-# First Official App, Code Refactor
+# First Official Code Refactor
 
 ## Task
 
